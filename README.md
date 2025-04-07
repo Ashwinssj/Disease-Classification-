@@ -48,12 +48,8 @@ Applying PCA for dimensionality reduction proved to be beneficial in this projec
 
 ## Author
 
-Samanyu
+Ashwin
 
 ## Acknowledgments
 
 This project utilizes the scikit-learn library for machine learning tasks and pandas for data manipulation.
-
-## License
-
-[Specify the license if applicable]
